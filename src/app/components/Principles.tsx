@@ -14,9 +14,9 @@ export default function PrincipleSection (){
                 handled by CoopTech.
             </p>
 
-            <button className="bg-blue-600 text-white px-6 py-3 rounded-full font-semibold text-lg">
+            <a href="mailto:faseyitantobiloba@gmail.com" className="bg-blue-600 text-white px-6 py-3 rounded-full font-semibold text-lg">
                 Contact Us
-            </button>
+            </a>
         </div>
     );
 }

@@ -19,9 +19,9 @@ export default function HeroSection (){
                         payments and investment products in one dashboard.
                     </p>
 
-                    <button className="bg-blue-600 text-white px-6 py-3 rounded-full font-semibold text-lg">
+                    <a href="mailto:faseyitantobiloba@gmail.com" className="bg-blue-600 text-white px-6 py-3 rounded-full font-semibold text-lg">
                         Contact Us
-                    </button>
+                    </a>
                 </div>
 
                 {/* Hero Image */}
