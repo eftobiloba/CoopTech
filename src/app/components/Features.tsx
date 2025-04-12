@@ -35,7 +35,7 @@ const features = [
 
 export default function FeaturesSection() {
   return (
-    <section className="w-full bg-gray-50 mt-15 py-20 px-4">
+    <section className="w-full bg-gray-50 mt-5 py-20 px-4">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-black mb-4">Features made for Cooperatives</h2>
         <p className="text-lg text-gray-600 mb-12">
