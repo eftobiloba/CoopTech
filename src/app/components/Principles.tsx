@@ -1,5 +1,4 @@
 import React from "react";
-import { Banknote, Megaphone, Cake } from "lucide-react";
 
 export default function PrincipleSection (){
     return (
